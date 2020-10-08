@@ -1,3 +1,3 @@
 nombre = input("Ingresa tu nombre")
-edad = input("Ingresa tu edad")
-print("Te has registrado correctamente" + nombre)
+edad = int(input("Ingresa tu edad"))
+print("Te has registrado correctamente", nombre)
